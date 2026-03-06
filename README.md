@@ -1,6 +1,6 @@
 ## Project Overview
 
-Python re-implementation of `call-summary-agent-with-sandbox` — an AI-powered
+Python re-implementation of [`call-summary-agent-with-sandbox`](https://github.com/vercel-labs/call-summary-agent-with-sandbox) — an AI-powered
 sales call summary agent that:
 
 1. Receives a Gong webhook (or uses mock data in **demo mode**)
